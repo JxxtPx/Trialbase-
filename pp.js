@@ -155,7 +155,7 @@ function userInput(){
             console.log("exiting");
             break;
         }else {
-            console.log("invalid input please enter again")
+            console.log("invalid input please enter again.")
         }
         
     }
